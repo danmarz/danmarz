@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img align="right" width="400" height="400" src="https://github.com/danmarz/danmarz/blob/main/profile-image.png?raw=true">
 <img align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=danmarz.danmarz" />
 
-### Hi there, I'm Dan 👋
+### Hi there, I'm <a rel="me" href="https://mastodon.social/@dan_marius">Dan</a> 👋
 
 I'm currently working on ( mostly ) backend development with technologies like JavaScript, Node.js, Express etc.
 
@@ -40,7 +40,6 @@ I'm currently working on ( mostly ) backend development with technologies like J
 [![Reddit URL](https://img.shields.io/badge/-/u/pointt-black?style=flat-square&logo=reddit&link=https://www.reddit.com/user/pointt/)](https://www.reddit.com/user/pointt)
 [![Keybase PGP](https://img.shields.io/badge/-PGP:69A3CF125FBE00C7-black?style=flat-square&logo=keybase&link=https://keybase.io/danmarius/)](https://keybase.io/danmarius)
 [![Outlook](https://img.shields.io/badge/-bonjour@danmarius.dev-black?style=flat-square&logo=Gmail)](mailto:bonjour@danmarius.dev)
-
 
 ## My Tech Stack
 #### Languages
